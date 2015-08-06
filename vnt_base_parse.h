@@ -1,5 +1,5 @@
 #ifndef VNT_BASE_PARSE
-#define VNT_BASE_PARS
+#define VNT_BASE_PARSE
 
 template<class it_t>
 struct tryread {
